@@ -1,15 +1,16 @@
 _repo: Gold-Seeking-on-the-Dalton-Trail-Being-the-Adventures-of-Two-New-England-Boys-in-Alaska-and-t__46503
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46503/46503-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46503-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Arthur R.
     gutenberg_agent_id: '43819'
     url: http://www.gutenberg.org/2009/agents/43819
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46503#Gold-Seeking-on-the-Dalton-Trail-Being-the-Adventures-of-Two-New-England-Boys-in-Alaska-and-t_
 gutenberg_issued: '2014-08-04'
 gutenberg_type: Text
 identifiers:
